@@ -14,7 +14,8 @@ By examining their threat models and thoroughly comparing their performance unde
 This yields the conclusion that, to achieve truly \textit{privacy-preserving LLM adaptations} that yield high performance and more privacy at lower costs, one should use open LLMs.
 
 ## Code
-Our submitted code is divided into mutliple directories, each with their own README. 
+Our code is divided into mutliple directories, each with their own README. 
+
 The directories inlcude the following:
 
 **PrivateLoRA-Classification** includes our code to run the Private LoRA for the evaluated **classification** tasks \
