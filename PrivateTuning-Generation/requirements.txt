@@ -1,0 +1,12 @@
+accelerate==0.27.2
+evaluate==0.4.0
+nltk==3.5
+numpy==1.26.4
+opacus==1.4.1
+pandas==2.2.2
+peft==0.10.0
+prv_accountant==0.2.0
+python_Levenshtein==0.25.1
+torch==2.3.0
+tqdm==4.66.2
+transformers==4.39.3
